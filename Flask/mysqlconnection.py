@@ -11,7 +11,7 @@ app.secret_key = 'super secret key'
 
 HOST = 'localhost'
 USER = 'root'
-PASSWORD = 'Wowmomosurya@443'
+PASSWORD = '***************'
 DB_NAME = 'sys'
 
 
